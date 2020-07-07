@@ -4,7 +4,6 @@ Grid cells are connected horizontally/vertically (not diagonally). The grid is c
 
 The island doesn't have "lakes" (water inside that isn't connected to the water around the island). One cell is a square with side length 1. The grid is rectangular, width and height don't exceed 100. Determine the perimeter of the island.
 
- 
 
 Example:
 
@@ -16,10 +15,10 @@ Input:
 
 Output: 16
 
-Explanation: The perimeter is the 16 yellow stripes in the image below:*/
+Explanation: The perimeter is the 16 yellow stripes in the image below:
 
-![alt text](http://assets.leetcode.com/uploads/2018/10/12/island.png)
-
+http://assets.leetcode.com/uploads/2018/10/12/island.png
+*/
 
 class Solution {
     public int islandPerimeter(int[][] grid) {
