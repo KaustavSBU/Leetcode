@@ -16,7 +16,7 @@ Input:
 
 Output: 16
 
-Explanation: The perimeter is the 16 yellow stripes in the image below:*/
+Explanation: The perimeter is the 16 yellow stripes in the image below:*//
 
 ![alt text](https://assets.leetcode.com/uploads/2018/10/12/island.png)
 
